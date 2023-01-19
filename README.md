@@ -10,7 +10,7 @@
 - Anonymous report filing(Upcoming!)
 
 ## Screenshots
-![](https://github.com/GulatiGarvit/SafetyApp/blob/master/ezgif.com-gif-maker.gif)
+<img src="https://github.com/GulatiGarvit/SafetyApp/blob/master/ezgif.com-gif-maker.gif" width="250" height="250"/>
 ![](https://github.com/GulatiGarvit/SafetyApp/blob/master/ss1.jpg)
 ![](https://github.com/GulatiGarvit/SafetyApp/blob/master/ss2.jpg)
 ![](https://github.com/GulatiGarvit/SafetyApp/blob/master/ss3.jpg)

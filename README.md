@@ -15,11 +15,11 @@
 <br />
 </p>
 <p float="middle">
-<img src="https://github.com/GulatiGarvit/SafetyApp/blob/master/ss1.jpg" width="250" height="520"/>
+<img src="https://github.com/GulatiGarvit/SafetyApp/blob/master/ss1.jpg" width="250" height="520" style="margin-right:100px"/>
 <img src="https://github.com/GulatiGarvit/SafetyApp/blob/master/ss2.jpg" width="250" height="520"/>
 </p>
 <p float="middle">
-<img src="https://github.com/GulatiGarvit/SafetyApp/blob/master/ss3.jpg" width="250" height="520"/>
+<img src="https://github.com/GulatiGarvit/SafetyApp/blob/master/ss3.jpg" width="250" height="520" style="margin-right:100px"/>
 <img src="https://github.com/GulatiGarvit/SafetyApp/blob/master/ss4.jpg" width="250" height="520"/>
 </p>
 
